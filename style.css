@@ -1,0 +1,114 @@
+body {
+  background-image: url("Wikimedium-Post.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+h1, h2, h3, h4, p, ol, ul, blockquote {
+  width: 700px;
+  margin: auto;
+  color: red;
+}
+
+p, ol, ul, blockquote{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 22px;
+  line-height: 34px;
+  margin: 29px auto;
+}
+
+img {
+  width: 1020px;
+  margin:auto;
+  display: block;
+  height: 599.25px;
+  left: 210px;
+  top: 542px;
+  margin-top: 80px;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'PT Sans Caption', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 22px;
+  line-height: 34px;
+  color: #000000;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 46px;
+  margin-top: 66px;
+}
+
+h1 + p {
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 22px;
+  line-height: 32px;
+  color: rgba(0, 0, 0, 0.4);
+  margin-top: 14px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 36px;
+  margin-top: 78.75px;
+}
+
+p + h2 {
+  margin-top: 43px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 34px;
+}
+
+h2, h3, h4 {
+  margin: 7px auto;
+}
+
+p + h3 {
+  margin-top: 35px;
+}
+
+blockquote {
+  font-family: PT Sans;
+  font-style: italic;
+  font-size: 22px;
+  line-height: 34px;
+  color: #000000;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+p + h4 {
+  margin-top: 33px;
+}
+
+li {
+  margin: 17px auto;
+}
+
+li + p {
+  margin-right: 14px;
+}
+
+ul {
+  width: 670px;
+}
+
+h2 + h3 {
+  margin-top: 37px;
+}
